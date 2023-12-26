@@ -1,0 +1,2 @@
+# M480BSP_Calculate_binary_size
+ M480BSP_Calculate_binary_size
